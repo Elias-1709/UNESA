@@ -25,24 +25,25 @@ Contato: Formulário para entrar em contato com a universidade.
 •
 5 Motivos para Estudar: Lista dos principais diferenciais da instituição:
 
-1.
-Material sempre atualizado
+1.Material sempre atualizado
 
-2.
-Tablets em sala de aula
 
-3.
-Professores renomados
+2.Tablets em sala de aula
 
-4.
-Universidade bem avaliada
 
-5.
-Ótima localização
+3.Professores renomados
+
+
+4.Universidade bem avaliada
+
+
+5.Ótima localização
+
 
 
 
 Processo de Criação
+
 
 O projeto UNES foi desenvolvido com as seguintes características:
 
