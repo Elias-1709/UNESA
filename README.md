@@ -1,13 +1,13 @@
 # UNESA
 Meu Primeiro Projeto Utilizando apenas Html5.
 
-UNES - Universidade
+UNESA - Universidade
 
 Este é um projeto fictício de um site institucional universitário, criado com o objetivo de demonstrar habilidades de desenvolvimento web e design. O site pode ser acessado em: https://unesa25.netlify.app/
 
 Sobre o Projeto
 
-O UNES é um site institucional de uma universidade fictícia que apresenta informações sobre a instituição, seus diferenciais e formas de contato. O projeto simula um portal universitário moderno com foco na tecnologia educacional, destacando o uso de tablets em sala de aula e material sempre atualizado.
+A UNESA é um site institucional de uma universidade fictícia que apresenta informações sobre a instituição, seus diferenciais e formas de contato. O projeto simula um portal universitário moderno com foco na tecnologia educacional, destacando o uso de tablets em sala de aula e material sempre atualizado.
 
 Como Utilizar
 
